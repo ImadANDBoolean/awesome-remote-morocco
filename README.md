@@ -7,6 +7,7 @@ A list of awesome moroccan companies working remotely in 2020 and beyond.
 ## Fully Remote (in 2020)
 * [Gemography](https://gemography.com)
 * [DevInWeb](https://devinweb.com)
+* <a href="https://novancy.com/one/"> Novancy One </a>
 
 ## Fully Remote
 * [Obytes](https://www.obytes.com)
